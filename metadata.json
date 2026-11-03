@@ -1,0 +1,6 @@
+{
+  "name": "Student Submission Portal",
+  "description": "Fast, secure student assignment submission portal uploading directly to Google Drive without student registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
